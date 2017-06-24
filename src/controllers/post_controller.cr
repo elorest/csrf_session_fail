@@ -2,6 +2,7 @@ class PostController < ApplicationController
   def index
     puts "Session should exist on future requests."
     puts session.fetch("test", nil)
+    puts session["test"]?
     posts = Post.all
     render("index.slang")
   end
