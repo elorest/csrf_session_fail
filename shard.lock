@@ -2,7 +2,7 @@ version: 1.0
 shards:
   amber:
     github: amber-crystal/amber
-    commit: 27d296e23c01ca51b98428efab718d6352e4292a
+    commit: 77d3f1fd431a14a72572961ddf42d1ec56afe546
 
   db:
     github: crystal-lang/crystal-db
@@ -42,5 +42,5 @@ shards:
 
   smtp:
     github: raydf/smtp.cr
-    commit: 1301f244fd1e251244b0a9fb7f8bc817da9c8854
+    commit: 36854c38435ce104914cb6f44e08c23d8defd143
 
