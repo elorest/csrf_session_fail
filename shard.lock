@@ -2,7 +2,7 @@ version: 1.0
 shards:
   amber:
     github: amber-crystal/amber
-    commit: 77d3f1fd431a14a72572961ddf42d1ec56afe546
+    commit: a72f0b5d71616c45dcd16e366addaa7c051bdab9
 
   db:
     github: crystal-lang/crystal-db
